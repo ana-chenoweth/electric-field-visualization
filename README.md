@@ -12,21 +12,24 @@ The simulation uses vector field plots and electric field lines to provide a cle
   
 </p>
 
+<h4>Silicone Oil</h4>
+<br>
 <p align="center">
-  <img src="img/silicone-oil.jpg" alt="Point positive charge" width="300">
   <img src="img/compounds/silicone-oil-compound.png" alt="Empty field" width="300">
   <img src="img/animations/silicone-oil.gif" alt="Empty field" width="300">
 </p>
 <br>
 
+<h4>Water</h4>
+<br>
 <p align="center">
-  <img src="img/water.jpg" alt="Point positive charge" width="300">
   <img src="img/compounds/water-compound.png" alt="Empty field" width="300">
   <img src="img/animations/water.gif" alt="Empty field" width="300">
 </p>
 
+<h4>Paper</h4>
+<br>
 <p align="center">
-  <img src="img/paper.jpg" alt="Point positive charge" width="300">
   <img src="img/compounds/paper-compound.png" alt="Empty field" width="300">
   <img src="img/animations/paper.gif" alt="Empty field" width="300">
 </p>
