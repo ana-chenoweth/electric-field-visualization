@@ -10,6 +10,7 @@ The simulation uses vector field plots and electric field lines to provide a cle
 <br>
 <p align="center">
   <img src="img/animations/vaccum.gif" alt="Empty field" width="400">
+  <img src="img/point-charge.png" alt="Point charge" width="400">
 </p>
 
 <br>
