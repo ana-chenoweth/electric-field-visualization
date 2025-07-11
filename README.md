@@ -15,27 +15,23 @@ The simulation uses vector field plots and electric field lines to provide a cle
 <br>
 
 <table>
+    <tr>
+        <th><h4>Diaelectric constants</h4></th>
+        <th><h4>Paper</h4></th>
+    </tr>
+    <tr>
+    <td><img src="img/diaelectric-constants.png" alt="Diaelectric constants" width="300"></td>
+    <td><img src="img/animations/paper.gif" alt="Paper" width="300"></td> 
+  </tr>
   <tr>
     <th><h4>Silicone Oil</h4></th>
     <th><h4>Water</h4></th>
   </tr>
   <tr>
-    <td><p>
-    <img src="img/compounds/silicone-oil-compound.png" alt="Empty field" width="200">
-    <img src="img/animations/silicone-oil.gif" alt="Empty field" width="300">
-    </p></td>
-    <td><p>
-    <img src="img/compounds/water-compound.png" alt="Empty field" width="200">
-    <img src="img/animations/water.gif" alt="Empty field" width="300">
-    </p></td>
+    <td><img src="img/animations/silicone-oil.gif" alt="Silicone oil" width="300"></td>
+    <td><img src="img/animations/water.gif" alt="Water" width="300"></td>
   </tr>
-  <tr>
-    <td><p>
-        <img src="img/compounds/paper-compound.png" alt="Empty field" width="200">
-        <img src="img/animations/paper.gif" alt="Empty field" width="300">
-        </p></td>
-    <td><img src="img/diaelectric-constants.png" alt="Diaelectric constants" width="300"></td>
-  </tr>
+  
   
 </table>
 
