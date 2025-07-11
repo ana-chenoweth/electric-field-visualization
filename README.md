@@ -7,9 +7,9 @@ The simulation uses vector field plots and electric field lines to provide a cle
 ## Example Output
 
 <p align="center">
-  <img src="img/images.png" alt="Point positive charge" width="400">
+  <img src="img/point-charge.png" alt="Point positive charge" width="400">
   <img src="img/diaelectric-constants.png" alt="Diaelectric constants" width="400"><br>
-  <img src="img/vaccum.gif" alt="Empty field" width="400">
+  <img src="img/animations/vaccum.gif" alt="Empty field" width="400">
 </p>
 
 <p align="center">
